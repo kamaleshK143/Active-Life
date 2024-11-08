@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26584272512",
+    "project_id": "activelife1",
+    "storage_bucket": "activelife1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26584272512:android:bd40bab1e11a87c097a065",
+        "android_client_info": {
+          "package_name": "com.example.activelife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsrFJTujRqy33u5zwf3dr0lFS9OrND0js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
